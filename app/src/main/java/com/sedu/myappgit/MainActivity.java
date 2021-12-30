@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    int doi;
+    int doi, ed,df;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
